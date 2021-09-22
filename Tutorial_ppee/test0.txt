@@ -1,0 +1,8 @@
+generate p p > e- e+ 
+output /youwei_home/SVJ_py/Tutorial_ppee/ppee/0
+
+launch /youwei_home/SVJ_py/Tutorial_ppee/ppee/0
+
+shower=OFF 
+detector=OFF 
+analysis=OFF

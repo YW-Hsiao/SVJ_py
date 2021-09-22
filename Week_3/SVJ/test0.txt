@@ -1,0 +1,22 @@
+import model DMsimp_s_spin1 
+define j = g u c d b s t u~ c~ d~ b~ s~ t~ 
+generate p p > xd xd~ @0 
+output /youwei_home/SVJ_py/Week_3/s_channel/SVJ/0 
+
+launch /youwei_home/SVJ_py/Week_3/s_channel/SVJ/0 
+
+shower=OFF 
+detector=OFF 
+analysis=OFF 
+
+set run_card nevents 10000
+set run_card ebeam1 6500.0
+set run_card ebeam2 6500.0
+set MXd 10
+set MY1 1500
+set gvd11 1.000000e-01 
+set gvu11 1.000000e-01 
+set gvd22 1.000000e-01 
+set gvu22 1.000000e-01 
+set gvd33 1.000000e-01 
+set gvu33 1.000000e-01 

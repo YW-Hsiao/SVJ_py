@@ -1,0 +1,34 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# For Tutorial
+Tutorial/LHE/*
+Tutorial/ROOT/*
+Tutorial/s_channel0/*
+Tutorial/check0.log
+Tutorial/checkPID0.log
+Tutorial/out0.log
+Tutorial/s_channel0.tar.gz
+Tutorial/test0.log
+
+# For Tutorial_ppee
+Tutorial_ppee/ppee/*
+Tutorial_ppee/ppee.tar.gz
+Tutorial_ppee/test0.log
+
+# For Tutorial_v2
+Tutorial_v2/LHE/*
+Tutorial_v2/ROOT/*
+Tutorial_v2/checkPID/*
+Tutorial_v2/s_channel0/*
+Tutorial_v2/test0.log
+
+# For Week_1 Week_2 Week_3
+*.log
+Week_1/s_channel/*
+Week_2/s_channel/*
+Week_3/s_channel/*
